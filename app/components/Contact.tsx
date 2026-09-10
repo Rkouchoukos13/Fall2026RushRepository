@@ -1,8 +1,8 @@
 const contacts = [
   {
     label: "EMAIL",
-    href: "mailto:youremail@email.com",
-    value: "youremail@email.com",
+    href: "mailto:rkouch175@gmail.com",
+    value: "rkouch175@gmail.com",
     hint: "mailto",
   },
   {
